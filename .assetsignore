@@ -1,0 +1,5 @@
+.git/
+.openai/
+wrangler.jsonc
+.assetsignore
+.DS_Store
